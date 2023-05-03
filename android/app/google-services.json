@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "102997051440",
+    "project_id": "foodpanda-clone-app-7a5e7",
+    "storage_bucket": "foodpanda-clone-app-7a5e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102997051440:android:7cb8f7cfd1e5e48dc045f5",
+        "android_client_info": {
+          "package_name": "com.muhammadali.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102997051440-3o0a2ut3hqfvvsqcvheoo1qi1vlcahro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6y0uwkgwhIHajAILw_sWmJJWfHfTTQMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102997051440-3o0a2ut3hqfvvsqcvheoo1qi1vlcahro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102997051440:android:a21c61e5ab393360c045f5",
+        "android_client_info": {
+          "package_name": "com.muhammadali.sellersapp.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102997051440-3o0a2ut3hqfvvsqcvheoo1qi1vlcahro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6y0uwkgwhIHajAILw_sWmJJWfHfTTQMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102997051440-3o0a2ut3hqfvvsqcvheoo1qi1vlcahro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102997051440:android:81fa31e95256b83dc045f5",
+        "android_client_info": {
+          "package_name": "com.muhammadali.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102997051440-3o0a2ut3hqfvvsqcvheoo1qi1vlcahro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6y0uwkgwhIHajAILw_sWmJJWfHfTTQMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102997051440-3o0a2ut3hqfvvsqcvheoo1qi1vlcahro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
